@@ -157,3 +157,9 @@ If you find this work helpful for your research or projects, please cite our pap
 ## ⚖️ License
 
 Released under the Apache License 2.0.
+
+## 📋 User Agreement
+
+By using Skill Compass, you agree to our [User Agreement](USER_AGREEMENT.md).
+
+Data Collection Notice: We collect search interaction data (without involving personal privacy information) to construct public research datasets. This helps advance research in skill retrieval and agent capabilities. See the [User Agreement](USER_AGREEMENT.md) for full details.
